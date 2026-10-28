@@ -1,0 +1,4 @@
+cpu_sim.out
+*.vcd
+*.fst
+*.log
